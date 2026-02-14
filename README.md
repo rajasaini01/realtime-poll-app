@@ -32,7 +32,7 @@ A modern, full-stack polling application with real-time updates, anti-abuse prot
 
 #### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/poll-app.git
+git clone https://github.com/poll-app.git
 cd poll-app
 ```
 
